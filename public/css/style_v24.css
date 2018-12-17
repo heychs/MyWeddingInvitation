@@ -33,7 +33,7 @@ body {font-family: "나눔명조", NanumMyeongjo, "Nanum Myeongjo", "돋움", "�
     background-size: contain, contain;}
 .greet-wrap {width: 82.5%; margin: 0 auto; padding: 14.4% 0 11.94%; background-color: rgba(255,255,255,0.75);}
 .greet-title img {width: 22.5%;}
-.greet-text {padding: 20.9% 5% 25.4%; font-size: 0.96em; line-height: 2em; font-weight: 500;}
+.greet-text {padding: 20.9% 5% 25.4%; font-size: 0.96em; line-height: 2em; font-weight: 500; font-family: "나눔명조", NanumMyeongjo, "Nanum Myeongjo", "돋움", "돋움체", Arial, sans-serif;}
 .parent {font-weight: 500;}
 .parent div:first-child {margin-bottom: 3%;}
 .date {color: #eea690; font-size: 0.93em; font-weight: 500; padding: 22% 4% 0; line-height: 1.3;}

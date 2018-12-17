@@ -1,5 +1,6 @@
 {
   "projects": {
-    "WeddingInvitation": "ourweddinginvitation-hsjs"
+    "WeddingInvitation": "ourweddinginvitation-hsjs",
+    "default": "ourweddinginvitation-hsjs"
   }
 }
