@@ -5,7 +5,7 @@
  * License : MIT
  * Version : 1.3.2
  * Author : Vincent Loy <vincent.loy1@gmail.com>
- * Contributors : 
+ * Contributors :
  *  - Justin Beasley <JustinB@harvest.org>
  *  - Nathan Smith <NathanS@harvest.org>
  */
@@ -115,10 +115,10 @@
      */
     simplyCountdown = function (elt, args) {
         var parameters = extend({
-                year: 2011,
-                month: 9,
-                day: 9,
-                hours: 0,
+                year: 2019,
+                month: 1,
+                day: 26,
+                hours: 12,
                 minutes: 0,
                 seconds: 0,
                 words: {
